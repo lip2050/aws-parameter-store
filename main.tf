@@ -12,7 +12,5 @@ variable "params" {
     {name = "roboshop.dev.frontend.cart_url", value = "http://cart-dev.lipdevopspro.site", type = "String" },
     {name = "roboshop.dev.frontend.payment_url", value = "http://payment-dev.lipdevopspro.site", type = "String" },
     {name = "roboshop.dev.frontend.shipping_url", value = "http://shipping-dev.lipdevopspro.site", type = "String" },
-
-    {name = "demo2", value = "demo2", type = "String" }
   ]
 }
